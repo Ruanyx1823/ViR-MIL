@@ -13,7 +13,8 @@ Python (3.7.7), h5py (2.10.0), matplotlib (3.1.1), numpy (1.18.1), opencv-python
 - **Body parts**: Shoulder, humerus, elbow, forearm, wrist, hand, finger
   
 ## 3.Training Command
-'''python
+
+'''
 nohup python main_mura.py \
     --data_root_dir /data/mura/MURAprocessed_data \
     --data_folder_s clip_features_low \
