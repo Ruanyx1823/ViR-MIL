@@ -1,6 +1,6 @@
 # ViR-MIL
 Vision-First Multiple Instance Learning with Scale-Specific Feature Optimization for Radiograph Diagnosis
-![](image/framework.png)
+![](framework.png)
 ## 1. Pre-requisites
 
 Python (3.7.7), h5py (2.10.0), matplotlib (3.1.1), numpy (1.18.1), opencv-python (4.1.1), openslide-python (1.1.1), openslide (3.4.1), pandas (1.1.3), pillow (7.0.0), PyTorch (1.6.0), scikit-learn (0.22.1), scipy (1.4.1), tensorboardx (1.9), torchvision (0.7.0), captum (0.2.0), shap (0.35.0), clip (1.0).
