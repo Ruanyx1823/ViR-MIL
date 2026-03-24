@@ -14,7 +14,6 @@ Python (3.7.7), h5py (2.10.0), matplotlib (3.1.1), numpy (1.18.1), opencv-python
   
 ## 3.Training Command
 
-'''
 nohup python main_mura.py \
     --data_root_dir /data/mura/MURAprocessed_data \
     --data_folder_s clip_features_low \
@@ -33,4 +32,4 @@ nohup python main_mura.py \
     --prototype_number 24 \
     --bag_loss focal \
     --reg 1e-4 > experiment.log 2>&1 &
-'''
+
